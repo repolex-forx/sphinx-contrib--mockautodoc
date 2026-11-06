@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "mockautodoc",
+  "versions": [
+    {
+      "commit": "9503134d022e93fe95646254fefee0095db16151",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:53:56.214318+00:00"
+    }
+  ]
+}
